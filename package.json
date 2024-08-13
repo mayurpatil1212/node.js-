@@ -1,0 +1,26 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agentkeepalive": "^4.3.0",
+    "assert": "^2.0.0",
+    "ps-list": "^8.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemantathalye/node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hemantathalye/node/issues"
+  },
+  "homepage": "https://github.com/hemantathalye/node#readme",
+  "description": ""
+}
